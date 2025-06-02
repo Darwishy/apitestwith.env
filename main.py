@@ -7,8 +7,8 @@ dotenv_path = find_dotenv()
 load_dotenv(dotenv_path)
 
 GENDER = "Male"
-WEIGHT_KG = 170
-HEIGHT_CM = 207
+WEIGHT_KG = 60
+HEIGHT_CM = 60
 AGE = 37
 
 APP_ID = os.getenv("APP_ID")
